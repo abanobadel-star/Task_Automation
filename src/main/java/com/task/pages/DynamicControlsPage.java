@@ -24,9 +24,6 @@ public class DynamicControlsPage extends PageBase {
     @FindBy(xpath = "//input[@type='text']")
     public WebElement Text_filed;
 
-    @FindBy(xpath ="(//p[@id='message'])[1]")
-    public WebElement message_txt;
-
 
     public void  clickONCheckbox()
     {
@@ -45,6 +42,4 @@ public class DynamicControlsPage extends PageBase {
         Text_filed.click();
         Text_filed.sendKeys("hello");
     }
-
-
 }

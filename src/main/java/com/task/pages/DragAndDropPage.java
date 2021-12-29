@@ -16,9 +16,4 @@ public class DragAndDropPage extends PageBase {
     @FindBy(id = "column-b")
    public  WebElement Drop;
 
-//    public void DragAndDrop()
-//    {
-//       Actions actions=new Actions(driver);
-//        actions.dragAndDrop(Drag,Drop).build().perform();
-//    }
 }

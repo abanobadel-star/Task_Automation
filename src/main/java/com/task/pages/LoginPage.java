@@ -27,5 +27,4 @@ public class LoginPage extends PageBase{
         password_txt.sendKeys("SuperSecretPassword!");
         login_btn.click();
     }
-
 }

@@ -40,7 +40,6 @@ public class AddAndRemoveElementsTest {
         addAndRemoveElementsobject.add_element();
         Thread.sleep(2000);
         addAndRemoveElementsobject.remove_element();
-      //  Assert.assertFalse(addAndRemoveElementsobject.RemoveElements_Btn.isDisplayed());
     }
 
     @AfterClass()
