@@ -1,0 +1,1 @@
+{"uuid":"0c88ff49-b0f8-49d2-9c65-2b7e65cb0d16","name":"com.task.Tests.DragAndDropTest","children":["52ab1172-be35-4486-a279-f03e6d75c540"],"befores":[{"name":"start_driver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1640799200382,"stop":1640799238068}],"afters":[],"links":[],"start":1640799200254,"stop":1640799297135}

@@ -1,0 +1,1 @@
+{"uuid":"4a35e3ca-54ea-4df0-ad5c-714ed8a8b8a8","name":"com.task.Tests.LoginTest","children":["4cdeb983-b67a-4c01-8e41-bc4d736d9b83"],"befores":[{"name":"before_class","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1640794083770,"stop":1640794143185}],"afters":[],"links":[],"start":1640794083661,"stop":1640794162628}

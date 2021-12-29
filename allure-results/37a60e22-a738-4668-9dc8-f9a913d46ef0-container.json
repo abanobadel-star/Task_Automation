@@ -1,0 +1,1 @@
+{"uuid":"37a60e22-a738-4668-9dc8-f9a913d46ef0","name":"com.task.Tests.LoginTest","children":["8b2e0025-b29e-4f80-9fae-f23ef8f1e3a7"],"befores":[{"name":"start_driver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1640795448808,"stop":1640795572606}],"afters":[],"links":[],"start":1640795448154,"stop":1640795638349}
